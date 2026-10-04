@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="item" label="Item" language="en" table="x_1234_wishlist_wish_item">
+    <sys_documentation element="quantity" label="Quantity" language="en" table="x_1234_wishlist_wish_item">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>item</element>
+            <element>quantity</element>
             <help/>
             <hint/>
-            <label>Item</label>
+            <label>Quantity</label>
             <language>en</language>
             <name>x_1234_wishlist_wish_item</name>
-            <plural>Items</plural>
+            <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-10-04 11:22:41</sys_created_on>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>Item</sys_name>
+            <sys_created_on>2026-10-04 12:25:06</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Quantity</sys_name>
             <sys_package display_value="WishList" source="x_1234_wishlist">f6a03394103303107f44685af6f48024</sys_package>
             <sys_policy/>
             <sys_scope display_value="WishList">f6a03394103303107f44685af6f48024</sys_scope>
-            <sys_update_name>sys_documentation_x_1234_wishlist_wish_item_item_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1234_wishlist_wish_item_quantity_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-04 12:25:06</sys_updated_on>
             <url/>
